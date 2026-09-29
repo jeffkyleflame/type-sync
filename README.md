@@ -28,6 +28,8 @@ Flame-generated Type graphic.
 Text and layout are managed independently — change one without disturbing the
 other.
 
+https://youtu.be/Adx8ZJi4JU0
+
 ---
 
 
