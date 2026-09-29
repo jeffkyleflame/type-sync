@@ -32,10 +32,7 @@ other.
 
 ## How it works
 
-Youtube Demo
-<a href="https://youtu.be/ef9oTNjQd7Q">
-  <img src="https://img.youtube.com/vi/ef9oTNjQd7Q/maxresdefault.jpg" alt="Type Sync demo" width="720">
-</a>
+Youtube Demo https://youtu.be/ef9oTNjQd7Q
 
 A per-project JSON **registry** is the single source of truth for each graphic's
 text. Segments are assigned `graphicNN` and receive their text from the registry —
