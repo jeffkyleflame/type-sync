@@ -28,7 +28,9 @@ Flame-generated Type graphic.
 Text and layout are managed independently — change one without disturbing the
 other.
 
-[![Type Sync demo](https://img.youtube.com/vi/ef9oTNjQd7Q/maxresdefault.jpg)](https://youtu.be/ef9oTNjQd7Q)
+<a href="https://youtu.be/ef9oTNjQd7Q">
+  <img src="https://img.youtube.com/vi/ef9oTNjQd7Q/maxresdefault.jpg" alt="Type Sync demo" width="720">
+</a>
 ---
 
 ## How it works
